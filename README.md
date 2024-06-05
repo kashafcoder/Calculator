@@ -1,5 +1,7 @@
 # Calculator
+<br>
 Simple Calculator
+<br>
 let inputNumber1 = document.getElementById("input-1");
 let inputNumber2 = document.getElementById("input-2");
 let result = document.getElementById("result");
